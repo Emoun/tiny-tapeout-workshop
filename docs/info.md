@@ -13,8 +13,9 @@ Shows the value of the input (first 3 bit) on the 7-segment
 
 ## How to test
 
-Explain how to use your project
+Should show the numbers
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-segment
